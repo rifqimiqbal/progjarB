@@ -1,0 +1,19 @@
+Dokumentasi Protocol
+
+Pastikan server telah diaktifkan
+
+awali semua aktivitas dengan login 
+dengan cara : login <username>  (tekan enter)
+
+setelah login anda bisa menjalankan aktivitas berikut
+
+1) mengirim pesan ke client lain 
+syntax: sendto <nama_client> <isi_pesan> (tekan enter)
+
+2) mengirim pesan ke semua client yg aktif
+syntax: sendall <isipesan> (tekan enter)
+
+3) mengecek semua client yg login(aktif)
+syntax: list (tekan enter)
+
+
